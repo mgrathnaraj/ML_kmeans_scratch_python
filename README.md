@@ -4,7 +4,7 @@
 
 **Packages** Anaconda, Jupyter, pandas, numpy, matplotlib
 
-**Tools/IDE ** Jupyter notebook (IPython)
+**Tools/IDE** Jupyter notebook (IPython)
 
 **How to use it** 
 Fork this repository to have your own copy 
